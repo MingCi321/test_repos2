@@ -11,6 +11,6 @@ public interface UserMapper {
 */
     public List<User> findAllUserByPage(UserVo userVo);
 
-    public List<User> findAllUserByPage2(UserVo userVo);
+    public List<User> findAllUserByPage3(UserVo userVo);
 
 }
